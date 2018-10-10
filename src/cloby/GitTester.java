@@ -1,0 +1,9 @@
+package cloby;
+
+public class GitTester {
+
+	public static void main(String[] args) {
+		System.out.println("GitTester here!");
+	}
+
+}
