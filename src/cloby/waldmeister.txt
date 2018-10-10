@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Waldmeister
 Gefl�gel
 Werder
 flubbby
 ritual
+=======
+Waldmeister
+Gefl�gel
+Werder
+flubbby
+>>>>>>> branch 'master' of https://github.com/crachyhub/cloby.git
